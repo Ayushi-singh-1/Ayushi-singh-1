@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Ayushi-singh-1/Ayushi-singh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ayushi Singh 👋  
+🎓 MSc in Artificial Intelligence & Machine Learning – University of Limerick  
+🧠 Passionate about NLP, Computer Vision, and Scalable AI  
+🚀 Currently working on cloud-based AI solutions with AWS, TensorFlow, and Python  
 
-Here are some ideas to get you started:
+## 💼 Projects
+- 🤖 [Smart Resume Analyzer](https://github.com/your-link): NLP tool to evaluate resumes in real-time using SpaCy and NLTK
+- 🚗 [Sensor Fusion for Autonomous Vehicles](https://github.com/your-link): Deep learning-based obstacle detection using LiDAR, Radar, and Cameras in CARLA simulator
+- 💬 [Sentiment Analysis at Scale](https://github.com/your-link): Scalable sentiment analyzer deployed with AWS SageMaker and Lambda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+`Python` `TensorFlow` `PyTorch` `AWS` `Scikit-learn` `NLP` `Computer Vision` `Pandas` `Git`
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ayushi-singh-9b8940189)
