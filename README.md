@@ -4,12 +4,31 @@
 🧠 Passionate about NLP, Computer Vision, and Scalable AI  
 🚀 Currently working on cloud-based AI solutions with AWS, TensorFlow, and Python  
 
-## 💼 Projects
-- 🤖 [Smart Resume Analyzer](https://github.com/your-link): NLP tool to evaluate resumes in real-time using SpaCy and NLTK
-- 🚗 [Sensor Fusion for Autonomous Vehicles](https://github.com/your-link): Deep learning-based obstacle detection using LiDAR, Radar, and Cameras in CARLA simulator
-- 💬 [Sentiment Analysis at Scale](https://github.com/your-link): Scalable sentiment analyzer deployed with AWS SageMaker and Lambda
+# Job Application Tracker API
 
-## 🛠️ Skills & Tools
-`Python` `TensorFlow` `PyTorch` `AWS` `Scikit-learn` `NLP` `Computer Vision` `Pandas` `Git`
+A production-style backend service built with FastAPI to track job applications, their statuses, and related company data.
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ayushi-singh-9b8940189)
+This project is designed to demonstrate clean backend architecture, REST API design, and real-world engineering practices suitable for entry-level software engineering roles.
+
+---
+
+## 🚀 Features (Planned)
+- Track job applications and their current status
+- Manage company information
+- Analytics on application progress
+- Clean API contracts with validation
+- Testable, maintainable backend structure
+
+---
+
+## 🛠 Tech Stack
+- Python 3.10+
+- FastAPI
+- Uvicorn
+- SQLAlchemy (planned)
+- SQLite / PostgreSQL (planned)
+
+---
+
+## 📂 Project Structure
+
