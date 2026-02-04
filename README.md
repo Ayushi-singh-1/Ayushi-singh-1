@@ -30,5 +30,4 @@ This project is designed to demonstrate clean backend architecture, REST API des
 
 ---
 
-## 📂 Project Structure
 
